@@ -11,15 +11,17 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 ## Occupation
 `2022 - Now`
 **IT Docent**, *Code Café*, Utrecht
-- Preparing and giving lectures and practical training
-- Online Lectures
-- Planning training tracks
-- Online Content
+
+- *Preparing and giving lectures and practical training*
+- *Online Lectures*
+- *Planning training tracks*
+- *Online Content*
 
 `2018 - 2021`
+
 **Junior Programmer**, *TANS*, Eindhoven
-- Backend C# Expert
-- Managing Installation Software
+- *Backend C# Expert*
+- *Managing Installation Software*
 
 ## Education
 `2013 - 2018`
