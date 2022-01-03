@@ -17,7 +17,7 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 - *Online Content*
 
 `2018 - 2021`
-**Junior Programmer**, "TANS, Eindhoven
+**Junior Programmer**, TANS, Eindhoven
 - *Backend C# Expert*
 - *Managing Installation Software*
 
