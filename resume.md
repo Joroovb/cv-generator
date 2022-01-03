@@ -1,42 +1,39 @@
 ---
-title: Your name here
-footer_text: "Last updated: June 2021"
+title: Home
+date: "Last updated: Januri 2022"
 ---
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Software Architect, Programmer, Teahcter. I love finding solutions when people are stuck with their programming. Helping people always makes me feel energized. I strive to stay up-to-date with the newest technologies regarding programming. I like to spend my free time in nature or staying at home playing board games.
 
 ## Occupation
-`2021 - Now`
-**Junior programmer**, *Code CafŽ*, Utrecht
-- *Git expert*
-- *Has a digital CV*
+`2022 - Now`
+**IT Docent**, *Code CafŽ*, Utrecht
+- *Preparing and giving lectures and practical training*
+- *Online Lectures*
+- *Planning training tracks*
+- *Online Content
+
+`2018 - 2021`
+**Junior Programmer**, "TANS, Eindhoven
+- *Backend C# Expert*
+- *Managing Installation Software*
 
 ## Education
-
-`2018 - 2019`
-**Making robots to rule the world**, *A galaxy far, far away*
+`2013 - 2018`
+**HBO-ICT**, *Fontys Hogeschool Eindhoven*
 
 ## Skills
-
 | Technical          | Soft                 |
 | ------------------ | -------------------- |
-| Git                | Cool                 |
-| Github             |                      |
-
-
-## Certification
-
-`2021`
-Working from home 101
+| Git                | Scrum                |
+| C#                 | Agile                |
+| Java               | Communicative        |
+| SQL                |                      |
 
 ## Languages
 ### Native
 - Dutch
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+- English
