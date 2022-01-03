@@ -1,6 +1,6 @@
 ---
 title: Jeroen Hendriks
-date: "Last updated: Januri 2022"
+date: "Last updated: January 2022"
 ---
 ## About Me
 
