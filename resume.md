@@ -14,7 +14,7 @@ Software Architect, Programmer, Teacher. I love finding solutions when people ar
 - *Preparing and giving lectures and practical training*
 - *Online Lectures*
 - *Planning training tracks*
-- *Online Content
+- *Online Content*
 
 `2018 - 2021`
 **Junior Programmer**, "TANS, Eindhoven
