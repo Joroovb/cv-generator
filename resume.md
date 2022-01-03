@@ -1,16 +1,16 @@
 ---
-title: Home
+title: Jeroen Hendriks
 date: "Last updated: Januri 2022"
 ---
 ## About Me
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="profile.jpeg">
 
-Software Architect, Programmer, Teahcter. I love finding solutions when people are stuck with their programming. Helping people always makes me feel energized. I strive to stay up-to-date with the newest technologies regarding programming. I like to spend my free time in nature or staying at home playing board games.
+Software Architect, Programmer, Teacher. I love finding solutions when people are stuck with their programming. Helping people always makes me feel energized. I strive to stay up-to-date with the newest technologies regarding programming. I like to spend my free time in nature or staying at home playing board games.
 
 ## Occupation
 `2022 - Now`
-**IT Docent**, *Code CafŽ*, Utrecht
+**IT Docent**, *Code Café*, Utrecht
 - *Preparing and giving lectures and practical training*
 - *Online Lectures*
 - *Planning training tracks*
